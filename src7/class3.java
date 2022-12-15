@@ -12,7 +12,7 @@ public class class3 {
         //to add string into the declare string using concatenation operator
         System.out.println(str + "city");
         //to combine two string using concatenation operator
-        System.out.println(str+ch+str1);
+        System.out.println("str+ch+str1");
         //to replace the string of old characters into new characters
         System.out.println(str2.replace('v','c'));
         //to print portion of the string use substring
